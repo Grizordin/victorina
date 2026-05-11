@@ -1,5 +1,5 @@
 {
-  "count": 80,
+  "count": 81,
   "questions": [
     {
       "id": 1,
@@ -880,6 +880,17 @@
         "Тоби"
       ],
       "answer": "Минато Намикадзе"
+    },
+    {
+      "id": 81,
+      "question": "Каким стендом владел Дио Брандо",
+      "options": [
+        "Hierophant Green",
+        "Purple Haze",
+        "Gold Experience",
+        "The World"
+      ],
+      "answer": "The World"
     }
   ]
 }

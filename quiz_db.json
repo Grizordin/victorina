@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 96,
   "questions": [
     {
       "id": 1,
@@ -1045,6 +1045,17 @@
         "Автозаписывающая кукла (Auto Memory Doll)"
       ],
       "answer": "Автозаписывающая кукла (Auto Memory Doll)"
+    },
+    {
+      "id": 96,
+      "question": "Как назвалась команда гонщиков Акаги во главе с братьями Такахаши?",
+      "options": [
+        "Akina Speedstars",
+        "RedSuns",
+        "Emperor",
+        "Sidewinder"
+      ],
+      "answer": "RedSuns"
     }
   ]
 }
